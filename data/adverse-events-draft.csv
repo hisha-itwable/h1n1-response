@@ -1,0 +1,12 @@
+zone,adverse_event,severity,count
+A,injection_site_pain,mild,45
+A,fatigue,mild,32
+A,headache,mild,28
+B,injection_site_pain,mild,38
+B,fatigue,mild,25
+B,headache,mild,20
+C,injection_site_pain,mild,67
+C,fatigue,mild,55
+C,headache,mild,48
+C,fever,moderate,12
+C,nausea,moderate,8
